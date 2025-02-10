@@ -17,7 +17,7 @@
     # WF01: .ttf => .ttx ;; py-fontLineEditor ;; .ttx ⇒ .ttf ;; (pyftfeatfreeze)
 # ## Status check
     # ✅ Script working on Python 3.11.2 as of 2025-02-05. 
-    # 🛑EDIT_HERE🛑 occurrences: 0
+    # 🛠️EDIT__HERE🛠️ occurrences: 0
 
 import os
 
